@@ -5,11 +5,9 @@ to run this:
 
 <b> Clone this repo </b>
 
-<br> 
 
 <b> run the command: opam install bogue </b>
 
-<br>
 
 <b> other dependencies: opam install dune tsdl tsdl-image tsdl-ttf </b>
 
@@ -17,6 +15,5 @@ to run this:
 
 <b> next: ./gui </b>
 
-<br>
 
 <b> ENJOY! </b>
