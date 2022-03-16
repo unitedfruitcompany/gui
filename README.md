@@ -11,7 +11,7 @@ to run this:
 
 <b> other dependencies: opam install dune tsdl tsdl-image tsdl-ttf </b>
 
-<b> once installed, run the command: ocamlfind ocamlopt -package bogue -linkpkg -o gui -thread randomize.ml </b>
+<b> once installed, run the command: ocamlfind ocamlopt -package bogue -linkpkg -o gui -thread Randomize.ml </b>
 
 <b> next: ./gui </b>
 
